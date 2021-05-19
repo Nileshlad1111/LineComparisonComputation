@@ -1,5 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3c74ea26-a9bf-4b5d-93ca-f2eb4e6b2183" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BootCamp/JAVA_BASIC/JAVA_BASIC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fellowship_Problems/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fellowship_Problems/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fellowship_Problems/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fellowship_Problems/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fellowship_Problems/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fellowship_Problems/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fellowship_Problems/.idea/modules/Fellowship_Problems.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fellowship_Problems/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fellowship_Problems/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fellowship_Problems/build/classes/java/main/com/bridgelabz/EmpWageBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fellowship_Problems/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fellowship_Problems/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fellowship_Problems/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fellowship_Problems/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fellowship_Problems/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fellowship_Problems/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fellowship_Problems/src/main/java/com/bridgelabz/EmpWageBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fellowship/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fellowship/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fellowship/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fellowship/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fellowship/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fellowship/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fellowship/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fellowship/fellowship.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/bridgelabz/LineComparison.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/bridgelabz/LineComparison.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/LineComparison.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/LineComparison.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1slA1ruK07gDZlLmTPymGwugSta" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
   <component name="RunManager">
     <configuration name="LineComparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bridgelabz.LineComparison" />
@@ -19,5 +94,30 @@
         <item itemvalue="Application.LineComparison" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c74ea26-a9bf-4b5d-93ca-f2eb4e6b2183" name="Default Changelist" comment="" />
+      <created>1621436593269</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621436593269</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
