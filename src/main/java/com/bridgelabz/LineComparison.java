@@ -29,6 +29,15 @@ public class LineComparison {
             System.out.println("Not Equal ");
         }
 
+        //Given compare two value
+        int diffInLength = (int) (lengthOne+lengthTwo);
+        if (diffInLength == 0) {
+            System.out.println("Equal of line length");
+        } else if (diffInLength > 0) {
+            System.out.println("Line1 is greater in length than lengthOne ");
+        } else {
+            System.out.println("Line1 is smaller in length than lengthTwo ");
 
+        }
     }
 }
