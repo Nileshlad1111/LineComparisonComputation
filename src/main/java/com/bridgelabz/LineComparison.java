@@ -1,59 +1,51 @@
 package com.bridgelabz;
 
-import java.util.Scanner;
+public class LineComparison extends LineLength{
 
-public class LineComparison {
-    // Creates an object of Scanner
-    Scanner input = new Scanner(System.in);
+    public static void main(String[] args){
+    //object
+    LineLength lineLength = new LineComparison();
 
-    //Given input value
-    Integer x1= input.nextInt();
-    Integer x2= input.nextInt();
-    Integer y1= input.nextInt();
-    Integer y2= input.nextInt();
+    //object passing value using wrapper data type
+    Integer LengthCalculationOne = lineLength.calculationOne(1, 8, 5, 4);
+    Integer LengthCalculationTwo = lineLength.calculationTwo(1, 8, 5, 4);
 
-    Integer a1= input.nextInt();
-    Integer a2= input.nextInt();
-    Integer b1= input.nextInt();
-    Integer b2= input.nextInt();
+    //calling
+    System.out.println("To calculation of line length one = " + LengthCalculationOne);
+    System.out.println("To calculation of line length two = " + LengthCalculationTwo);
 
-    //Length of line calculation
-    Double lengthOne = Math.sqrt(Math.pow(x2 - x1, 2) + Math.pow(y2 - y1, 2));
-    Double lengthTwo = Math.sqrt(Math.pow(a2 - a1, 2) + Math.pow(b2 - b1, 2));
-
-    //create compareTo method
-    public int compareTo(LineComparison lengthTwo  ) {
-        return 0;
+    //Given equal operator
+    if (LengthCalculationOne == LengthCalculationTwo) {
+        System.out.println("Equal ");
+    } else {
+        System.out.println("Not Equal ");
     }
 
-    public static void main(String[] args) {
+    //equal method
+    if(LengthCalculationOne.equals(LengthCalculationTwo)){
+        System.out.println("Equal ");
+    } else {
+        System.out.println("Not Equal ");
+    }
 
-        LineComparison lengthOne = new LineComparison();
-        LineComparison lengthTwo = new LineComparison();
+    //Given compare two value and use compareTo method
+    int diffInLength = LengthCalculationOne.compareTo(lineLength.calculationTwo(1,12,6,4));
+    if (diffInLength == 0) {
+        System.out.println("Equal of line length");
+    } else if (diffInLength > 0) {
+        System.out.println("Line1 is greater in length than lengthOne ");
+    } else {
+        System.out.println("Line1 is smaller in length than lengthTwo ");
+    }
 
-        //Given equal operator
-        if (lengthOne == lengthTwo) {
-            System.out.println("Equal ");
-        } else {
-            System.out.println("Not Equal ");
-        }
-
-        //Given equal method
-        if(lengthOne.equals(lengthTwo)){
-            System.out.println("Equal ");
-        } else {
-            System.out.println("Not Equal ");
-        }
-
-        //Given compare two value and use compareTo method
-        int diffInLength = lengthOne.compareTo(lengthTwo);
-        if (diffInLength == 0) {
-            System.out.println("Equal of line length");
-        } else if (diffInLength > 0) {
-            System.out.println("Line1 is greater in length than lengthOne ");
-        } else {
-            System.out.println("Line1 is smaller in length than lengthTwo ");
-
-        }
+    //Given compare two value and use compareTo method
+    int diffInLength1 = LengthCalculationTwo.compareTo(lineLength.calculationOne(1,8,4,5));
+    if (diffInLength1 == 0) {
+        System.out.println("Equal of line length");
+    } else if (diffInLength > 0) {
+        System.out.println("Line1 is greater in length than lengthOne ");
+    } else {
+        System.out.println("Line1 is smaller in length than lengthTwo ");
+    }
     }
 }
