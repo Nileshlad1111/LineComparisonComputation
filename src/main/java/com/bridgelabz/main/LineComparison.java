@@ -1,6 +1,8 @@
-package com.bridgelabz;
+package com.bridgelabz.main;
 
-public class LineComparison extends LineLength{
+import com.bridgelabz.user.LineLength;
+
+public class LineComparison extends LineLength {
 
     public static void main(String[] args){
     //object

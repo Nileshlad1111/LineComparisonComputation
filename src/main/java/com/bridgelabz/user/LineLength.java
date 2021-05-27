@@ -1,4 +1,4 @@
-package com.bridgelabz;
+package com.bridgelabz.user;
 
 public class LineLength {
     //Given variable
@@ -17,5 +17,6 @@ public class LineLength {
     int claculationLengthTwo = lengthTwo;
     return claculationLengthTwo;
     }
+
 
 }
